@@ -6,3 +6,4 @@ Kaggle dataset is used for data analysis.Thanks to libraries draw boxplot histog
 ![Ekran görüntüsü 2022-06-07 173803](https://user-images.githubusercontent.com/71037128/172624564-fe90c9ce-e255-4f23-96f4-cb71cea52fd5.png)
 ![Ekran görüntüsü 2022-06-07 173853](https://user-images.githubusercontent.com/71037128/172624569-4686a815-e6e0-4160-aabd-aee796795d12.png)
 ![Ekran görüntüsü 2022-06-07 173920](https://user-images.githubusercontent.com/71037128/172624574-62b65ad6-43f8-4734-85f0-3ac2ba7e424e.png)
+![Ekran görüntüsü 2022-06-07 174147](https://user-images.githubusercontent.com/71037128/172624873-14e33d7b-12bb-49e1-bd73-26d0fad0c126.png)
